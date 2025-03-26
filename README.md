@@ -65,4 +65,4 @@ pip install numpy pandas torch transformers streamlit
 - AI for educational applications
 
 ## Results
-![Math Meme Repair Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![Math Meme Repair Screenshot](https://github.com/Muradhameed921/Math-Meme-Repair/blob/main/M1.png)
